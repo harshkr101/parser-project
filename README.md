@@ -4,6 +4,7 @@
 
 ## Prerequisite:
   -[Flex](https://github.com/westes/flex)
+  
   -[Bison](https://www.gnu.org/software/bison/)
  
 ## Compilation
@@ -16,4 +17,5 @@
 ### Contributors
 
   -[Lav Saini](https://github.com/13lav)
-  -[Sandeep Singh]()
+  
+  -[Sandeep Singh](https://github.com/SandeepSingh1997)
